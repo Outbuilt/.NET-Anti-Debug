@@ -26,3 +26,12 @@ Update 08/14/19
 - Fixed anti-debug not starting
 - Now checks for malicious handles, hooks and dll's
 - Checks parent and modules so it can't be ran through other programs.
+
+Update 08/30/19
+
+- Open-Sourced
+- Added anti-proxy
+
+Credits:
+
+1 year ago, https://github.com/MauriceHuber sent me just the code for detecting multiple process names, it is now more than that :_)
