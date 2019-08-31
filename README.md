@@ -34,4 +34,5 @@ Update 08/30/19
 
 Credits:
 
-1 year ago, https://github.com/MauriceHuber sent me just the code for detecting multiple process names, it is now more than that :_)
+1 year ago, https://github.com/MauriceHuber sent me the code for detecting multiple process names.
+It has been drastically modified and new features have been added.
